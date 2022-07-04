@@ -3,169 +3,15 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://pijuanyu.me/designs/c/</loc>
-    <lastmod>2022-01-20T07:00:09+02:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://pijuanyu.me/designs/c&#43;&#43;/</loc>
-    <lastmod>2022-01-20T07:00:09+02:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
     <loc>https://pijuanyu.me/designs/</loc>
-    <lastmod>2022-01-20T07:00:09+02:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://pijuanyu.me/techs/gazebo/</loc>
-    <lastmod>2022-01-20T07:00:09+02:00</lastmod>
+    <lastmod>2021-02-10T07:00:09+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://pijuanyu.me/</loc>
-    <lastmod>2022-01-20T07:00:09+02:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://pijuanyu.me/techs/opencv/</loc>
-    <lastmod>2022-01-20T07:00:09+02:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://pijuanyu.me/portfolio/</loc>
-    <lastmod>2022-01-20T07:00:09+02:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://pijuanyu.me/designs/python/</loc>
-    <lastmod>2022-01-20T07:00:09+02:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://pijuanyu.me/portfolio/quanticity-internship/</loc>
-    <lastmod>2022-01-20T07:00:09+02:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://pijuanyu.me/techs/ros/</loc>
-    <lastmod>2022-01-20T07:00:09+02:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://pijuanyu.me/techs/ros2/</loc>
-    <lastmod>2022-01-20T07:00:09+02:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://pijuanyu.me/techs/</loc>
-    <lastmod>2022-01-20T07:00:09+02:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://pijuanyu.me/portfolio/collobrate-manipulation/</loc>
-    <lastmod>2021-07-01T07:00:09+02:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://pijuanyu.me/techs/realsense/</loc>
-    <lastmod>2021-07-01T07:00:09+02:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://pijuanyu.me/techs/coppeliasim/</loc>
-    <lastmod>2021-03-01T07:00:09+02:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://pijuanyu.me/techs/docker/</loc>
-    <lastmod>2021-03-01T07:00:09+02:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://pijuanyu.me/portfolio/dual-ur5-arms-assembly/</loc>
-    <lastmod>2021-03-01T07:00:09+02:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://pijuanyu.me/designs/lua/</loc>
-    <lastmod>2021-03-01T07:00:09+02:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://pijuanyu.me/techs/moveit/</loc>
-    <lastmod>2021-03-01T07:00:09+02:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://pijuanyu.me/techs/eagle/</loc>
-    <lastmod>2021-02-25T15:30:09+02:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://pijuanyu.me/techs/imu/</loc>
-    <lastmod>2021-02-25T15:30:09+02:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://pijuanyu.me/portfolio/mechatronics/</loc>
-    <lastmod>2021-02-25T15:30:09+02:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://pijuanyu.me/techs/microchip-pic32/</loc>
-    <lastmod>2021-02-25T15:30:09+02:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://pijuanyu.me/techs/pcb/</loc>
-    <lastmod>2021-02-25T15:30:09+02:00</lastmod>
+    <lastmod>2021-02-10T07:00:09+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -185,6 +31,13 @@
   </url>
   
   <url>
+    <loc>https://pijuanyu.me/portfolio/</loc>
+    <lastmod>2021-02-10T07:00:09+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://pijuanyu.me/portfolio/simulated-annealing/</loc>
     <lastmod>2021-02-10T07:00:09+02:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -192,22 +45,8 @@
   </url>
   
   <url>
-    <loc>https://pijuanyu.me/portfolio/youbot-manipulator/</loc>
-    <lastmod>2020-10-10T07:00:09+02:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://pijuanyu.me/portfolio/jackbox/</loc>
-    <lastmod>2020-10-01T16:55:09+02:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://pijuanyu.me/techs/jupyter-notebook/</loc>
-    <lastmod>2020-10-01T16:55:09+02:00</lastmod>
+    <loc>https://pijuanyu.me/techs/</loc>
+    <lastmod>2021-02-10T07:00:09+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>

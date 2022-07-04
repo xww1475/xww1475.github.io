@@ -7,118 +7,10 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Pijuan Yu</copyright>
-    <lastBuildDate>Thu, 20 Jan 2022 07:00:09 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 10 Feb 2021 07:00:09 +0200</lastBuildDate>
     
 	<atom:link href="https://pijuanyu.me/techs/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Gazebo</title>
-      <link>https://pijuanyu.me/techs/gazebo/</link>
-      <pubDate>Thu, 20 Jan 2022 07:00:09 +0200</pubDate>
-      
-      <guid>https://pijuanyu.me/techs/gazebo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>OpenCV</title>
-      <link>https://pijuanyu.me/techs/opencv/</link>
-      <pubDate>Thu, 20 Jan 2022 07:00:09 +0200</pubDate>
-      
-      <guid>https://pijuanyu.me/techs/opencv/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>ROS</title>
-      <link>https://pijuanyu.me/techs/ros/</link>
-      <pubDate>Thu, 20 Jan 2022 07:00:09 +0200</pubDate>
-      
-      <guid>https://pijuanyu.me/techs/ros/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>ROS2</title>
-      <link>https://pijuanyu.me/techs/ros2/</link>
-      <pubDate>Thu, 20 Jan 2022 07:00:09 +0200</pubDate>
-      
-      <guid>https://pijuanyu.me/techs/ros2/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Realsense</title>
-      <link>https://pijuanyu.me/techs/realsense/</link>
-      <pubDate>Thu, 01 Jul 2021 07:00:09 +0200</pubDate>
-      
-      <guid>https://pijuanyu.me/techs/realsense/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>CoppeliaSim</title>
-      <link>https://pijuanyu.me/techs/coppeliasim/</link>
-      <pubDate>Mon, 01 Mar 2021 07:00:09 +0200</pubDate>
-      
-      <guid>https://pijuanyu.me/techs/coppeliasim/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Docker</title>
-      <link>https://pijuanyu.me/techs/docker/</link>
-      <pubDate>Mon, 01 Mar 2021 07:00:09 +0200</pubDate>
-      
-      <guid>https://pijuanyu.me/techs/docker/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Moveit!</title>
-      <link>https://pijuanyu.me/techs/moveit/</link>
-      <pubDate>Mon, 01 Mar 2021 07:00:09 +0200</pubDate>
-      
-      <guid>https://pijuanyu.me/techs/moveit/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Eagle</title>
-      <link>https://pijuanyu.me/techs/eagle/</link>
-      <pubDate>Thu, 25 Feb 2021 15:30:09 +0200</pubDate>
-      
-      <guid>https://pijuanyu.me/techs/eagle/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>IMU</title>
-      <link>https://pijuanyu.me/techs/imu/</link>
-      <pubDate>Thu, 25 Feb 2021 15:30:09 +0200</pubDate>
-      
-      <guid>https://pijuanyu.me/techs/imu/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Microchip PIC32</title>
-      <link>https://pijuanyu.me/techs/microchip-pic32/</link>
-      <pubDate>Thu, 25 Feb 2021 15:30:09 +0200</pubDate>
-      
-      <guid>https://pijuanyu.me/techs/microchip-pic32/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>PCB</title>
-      <link>https://pijuanyu.me/techs/pcb/</link>
-      <pubDate>Thu, 25 Feb 2021 15:30:09 +0200</pubDate>
-      
-      <guid>https://pijuanyu.me/techs/pcb/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>iSight</title>
@@ -126,15 +18,6 @@
       <pubDate>Wed, 10 Feb 2021 07:00:09 +0200</pubDate>
       
       <guid>https://pijuanyu.me/techs/isight/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Jupyter notebook</title>
-      <link>https://pijuanyu.me/techs/jupyter-notebook/</link>
-      <pubDate>Thu, 01 Oct 2020 16:55:09 +0200</pubDate>
-      
-      <guid>https://pijuanyu.me/techs/jupyter-notebook/</guid>
       <description></description>
     </item>
     

@@ -7,46 +7,10 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Pijuan Yu</copyright>
-    <lastBuildDate>Thu, 20 Jan 2022 07:00:09 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 10 Feb 2021 07:00:09 +0200</lastBuildDate>
     
 	<atom:link href="https://pijuanyu.me/designs/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>C</title>
-      <link>https://pijuanyu.me/designs/c/</link>
-      <pubDate>Thu, 20 Jan 2022 07:00:09 +0200</pubDate>
-      
-      <guid>https://pijuanyu.me/designs/c/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>C&#43;&#43;</title>
-      <link>https://pijuanyu.me/designs/c&#43;&#43;/</link>
-      <pubDate>Thu, 20 Jan 2022 07:00:09 +0200</pubDate>
-      
-      <guid>https://pijuanyu.me/designs/c&#43;&#43;/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Python</title>
-      <link>https://pijuanyu.me/designs/python/</link>
-      <pubDate>Thu, 20 Jan 2022 07:00:09 +0200</pubDate>
-      
-      <guid>https://pijuanyu.me/designs/python/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Lua</title>
-      <link>https://pijuanyu.me/designs/lua/</link>
-      <pubDate>Mon, 01 Mar 2021 07:00:09 +0200</pubDate>
-      
-      <guid>https://pijuanyu.me/designs/lua/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>MATLAB</title>

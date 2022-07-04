@@ -7,49 +7,10 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Pijuan Yu</copyright>
-    <lastBuildDate>Thu, 20 Jan 2022 07:00:09 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 10 Feb 2021 07:00:09 +0200</lastBuildDate>
     
 	<atom:link href="https://pijuanyu.me/portfolio/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Quanticity Internship</title>
-      <link>https://pijuanyu.me/portfolio/quanticity-internship/</link>
-      <pubDate>Thu, 20 Jan 2022 07:00:09 +0200</pubDate>
-      
-      <guid>https://pijuanyu.me/portfolio/quanticity-internship/</guid>
-      <description>The purpose of this internship is to complete the basic autonomy of a ground vehicle. I will complete the SLAM and navigation based on LIDAR LD06, IMU, a depth camera and RGB camera. I used ROS2 galactic, OpenCV and Navigation2 to finish the whole project. Before running navigation in the physical robots, I will test these approaches in the Gazebo Simulation platform.
-My tasks will be divided into these steps.</description>
-    </item>
-    
-    <item>
-      <title>Collaborative Manipulation</title>
-      <link>https://pijuanyu.me/portfolio/collobrate-manipulation/</link>
-      <pubDate>Thu, 01 Jul 2021 07:00:09 +0200</pubDate>
-      
-      <guid>https://pijuanyu.me/portfolio/collobrate-manipulation/</guid>
-      <description>The final goal of this project is to control a group of three omnidirectional robots to move some heavy objects together. There are two parts to this robot. The top half part of this robot is a delta robot, which is used to withstand some heavy objects. The bottom half part of this robot is an omnidirectional mobile robot with four mecanum wheels.
-I focus on the bottom part of the robot.</description>
-    </item>
-    
-    <item>
-      <title>Dual UR5 Robot Arms Assembly</title>
-      <link>https://pijuanyu.me/portfolio/dual-ur5-arms-assembly/</link>
-      <pubDate>Mon, 01 Mar 2021 07:00:09 +0200</pubDate>
-      
-      <guid>https://pijuanyu.me/portfolio/dual-ur5-arms-assembly/</guid>
-      <description>In this robot simulation, a new object will be assembled by two UR5 arms with RG2 grippers. These two UR5 arms will be controlled by the Moveit!, remote API, python3, and ROS. The whole simulation will be done in the CoppeliaSim cross-platform. The docker approach will be helpful to make sure that everyone will run the code in the same environment with different machines and operating systems.
-Your browser doesn&#39;t support embedded videos, but don&#39;t worry, you can download it and watch it with your favorite video player!</description>
-    </item>
-    
-    <item>
-      <title>Mechatronics</title>
-      <link>https://pijuanyu.me/portfolio/mechatronics/</link>
-      <pubDate>Thu, 25 Feb 2021 15:30:09 +0200</pubDate>
-      
-      <guid>https://pijuanyu.me/portfolio/mechatronics/</guid>
-      <description>The above picture is a PCB (printed circuit board). It is designed by Eagle which is a 2D CAD software. The purpose of this PCB is to build a small mobile robot. In the Eagle software, I make a library for all items and then create a schematic (below). Then I draw the layout for the actual wires. Finally, I generate the gerber files and send them to the boarding house which can manufacture the PCB.</description>
-    </item>
     
     <item>
       <title>Simulated Annealing</title>
@@ -58,25 +19,6 @@ Your browser doesn&#39;t support embedded videos, but don&#39;t worry, you can d
       
       <guid>https://pijuanyu.me/portfolio/simulated-annealing/</guid>
       <description>Simulated annealing is a stochastic technique for searching the global optimum of a given function. This approach can deal with highly nonlinear functions with many constraints. The most important advantage of this algorithm is that it can avoid finding the local minimum solution through probabilistic decisions. Besides, this technique is very versatile for almost all functions. So, we decided to build a generalized code for this algorithm in MATLAB and try to analyze this approach through several tests.</description>
-    </item>
-    
-    <item>
-      <title>Youbot Manipulation</title>
-      <link>https://pijuanyu.me/portfolio/youbot-manipulator/</link>
-      <pubDate>Sat, 10 Oct 2020 07:00:09 +0200</pubDate>
-      
-      <guid>https://pijuanyu.me/portfolio/youbot-manipulator/</guid>
-      <description>This project is to plans a trajectory for the end-effector of the youBot mobile manipulator (a mobile base with four mecanum wheels and a 5R robot arm), performs odometry as the chassis moves, and performs feedback control to drive the youBot to pick up a block at a specified location, carry it to a desired location, and put it down.
-I use MATLAB to create an animation csv file and then input this file into CoppeliaSim so that the robot can be controlled by MATLAB.</description>
-    </item>
-    
-    <item>
-      <title>Jackbox project</title>
-      <link>https://pijuanyu.me/portfolio/jackbox/</link>
-      <pubDate>Thu, 01 Oct 2020 16:55:09 +0200</pubDate>
-      
-      <guid>https://pijuanyu.me/portfolio/jackbox/</guid>
-      <description>In this project, the dynamic will be simulated through python. A jack will be animated in a box. The box will move to the upper right. And the jack will go into free fall and then impact with the bottom of the box. After that, the jack will bounce up and rotate. And then it will impact the box again. Due to the impact of the jack, the box will also rotate and go down a little bit.</description>
     </item>
     
     <item>
