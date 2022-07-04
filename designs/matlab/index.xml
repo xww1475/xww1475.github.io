@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>MATLAB on Pijuan Yu</title>
+    <link>https://pijuanyu.me/designs/matlab/</link>
+    <description>Recent content in MATLAB on Pijuan Yu</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© Pijuan Yu</copyright>
+    <lastBuildDate>Wed, 10 Feb 2021 07:00:09 +0200</lastBuildDate>
+    
+	<atom:link href="https://pijuanyu.me/designs/matlab/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Simulated Annealing</title>
+      <link>https://pijuanyu.me/portfolio/simulated-annealing/</link>
+      <pubDate>Wed, 10 Feb 2021 07:00:09 +0200</pubDate>
+      
+      <guid>https://pijuanyu.me/portfolio/simulated-annealing/</guid>
+      <description>Simulated annealing is a stochastic technique for searching the global optimum of a given function. This approach can deal with highly nonlinear functions with many constraints. The most important advantage of this algorithm is that it can avoid finding the local minimum solution through probabilistic decisions. Besides, this technique is very versatile for almost all functions. So, we decided to build a generalized code for this algorithm in MATLAB and try to analyze this approach through several tests.</description>
+    </item>
+    
+    <item>
+      <title>Youbot Manipulation</title>
+      <link>https://pijuanyu.me/portfolio/youbot-manipulator/</link>
+      <pubDate>Sat, 10 Oct 2020 07:00:09 +0200</pubDate>
+      
+      <guid>https://pijuanyu.me/portfolio/youbot-manipulator/</guid>
+      <description>This project is to plans a trajectory for the end-effector of the youBot mobile manipulator (a mobile base with four mecanum wheels and a 5R robot arm), performs odometry as the chassis moves, and performs feedback control to drive the youBot to pick up a block at a specified location, carry it to a desired location, and put it down.
+I use MATLAB to create an animation csv file and then input this file into CoppeliaSim so that the robot can be controlled by MATLAB.</description>
+    </item>
+    
+    <item>
+      <title>Electric FSAE</title>
+      <link>https://pijuanyu.me/portfolio/electric-fsae/</link>
+      <pubDate>Thu, 30 Apr 2020 07:00:09 +0200</pubDate>
+      
+      <guid>https://pijuanyu.me/portfolio/electric-fsae/</guid>
+      <description>Abstarct SAE Formula Electric is the second year of a continuation project aimed at establishing an SAE electric vehicle at Florida Tech. The project carries on the designs of the accumulator and high voltage testbed from last year’s Formula Electric teams. Additionally, through a combined effort of three electrical and one mechanical team, this team designed, tested, and produced three additional systems: high voltage box, low voltage box, and cooling system.</description>
+    </item>
+    
+  </channel>
+</rss>

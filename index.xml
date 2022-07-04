@@ -1,87 +1,100 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>HOME on Edna West</title>
-    <link>https://example.com/</link>
-    <description>Recent content in HOME on Edna West</description>
+    <title>HOME on Pijuan Yu</title>
+    <link>https://pijuanyu.me/</link>
+    <description>Recent content in HOME on Pijuan Yu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>© Edna West</copyright>
-    <lastBuildDate>Fri, 03 May 2019 09:37:55 +0200</lastBuildDate>
+    <copyright>© Pijuan Yu</copyright>
+    <lastBuildDate>Thu, 20 Jan 2022 07:00:09 +0200</lastBuildDate>
     
-	<atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://pijuanyu.me/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Getting started</title>
-      <link>https://example.com/post/getting-started/</link>
-      <pubDate>Fri, 03 May 2019 09:37:55 +0200</pubDate>
+      <title>Quanticity Internship</title>
+      <link>https://pijuanyu.me/portfolio/quanticity-internship/</link>
+      <pubDate>Thu, 20 Jan 2022 07:00:09 +0200</pubDate>
       
-      <guid>https://example.com/post/getting-started/</guid>
-      <description>&lt;p&gt;Here are some details to help you getting started with this theme.&lt;/p&gt;</description>
+      <guid>https://pijuanyu.me/portfolio/quanticity-internship/</guid>
+      <description>The purpose of this internship is to complete the basic autonomy of a ground vehicle. I will complete the SLAM and navigation based on LIDAR LD06, IMU, a depth camera and RGB camera. I used ROS2 galactic, OpenCV and Navigation2 to finish the whole project. Before running navigation in the physical robots, I will test these approaches in the Gazebo Simulation platform.
+My tasks will be divided into these steps.</description>
     </item>
     
     <item>
-      <title>Portfolio Definition</title>
-      <link>https://example.com/post/portfolio-definition/</link>
-      <pubDate>Thu, 02 May 2019 19:49:05 +0200</pubDate>
+      <title>Collaborative Manipulation</title>
+      <link>https://pijuanyu.me/portfolio/collobrate-manipulation/</link>
+      <pubDate>Thu, 01 Jul 2021 07:00:09 +0200</pubDate>
       
-      <guid>https://example.com/post/portfolio-definition/</guid>
-      <description>&lt;p&gt;Here are some details about the portfolio settings.&lt;/p&gt;
-&lt;figure&gt;
-    &lt;img src=&#34;https://example.com/post/images/portfolio-example.png&#34;
-         alt=&#34;Example of Portfolio page&#34;/&gt; &lt;figcaption&gt;
-            &lt;p&gt;Example of Portfolio page&lt;/p&gt;
-        &lt;/figcaption&gt;
-&lt;/figure&gt;</description>
+      <guid>https://pijuanyu.me/portfolio/collobrate-manipulation/</guid>
+      <description>The final goal of this project is to control a group of three omnidirectional robots to move some heavy objects together. There are two parts to this robot. The top half part of this robot is a delta robot, which is used to withstand some heavy objects. The bottom half part of this robot is an omnidirectional mobile robot with four mecanum wheels.
+I focus on the bottom part of the robot.</description>
     </item>
     
     <item>
-      <title>Sample project</title>
-      <link>https://example.com/portfolio/sample-project/</link>
-      <pubDate>Thu, 02 May 2019 19:47:09 +0200</pubDate>
+      <title>Dual UR5 Robot Arms Assembly</title>
+      <link>https://pijuanyu.me/portfolio/dual-ur5-arms-assembly/</link>
+      <pubDate>Mon, 01 Mar 2021 07:00:09 +0200</pubDate>
       
-      <guid>https://example.com/portfolio/sample-project/</guid>
-      <description>This would be a description of your sample project. You can add any content you&amp;rsquo;d like.
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
+      <guid>https://pijuanyu.me/portfolio/dual-ur5-arms-assembly/</guid>
+      <description>In this robot simulation, a new object will be assembled by two UR5 arms with RG2 grippers. These two UR5 arms will be controlled by the Moveit!, remote API, python3, and ROS. The whole simulation will be done in the CoppeliaSim cross-platform. The docker approach will be helpful to make sure that everyone will run the code in the same environment with different machines and operating systems.
+Your browser doesn&#39;t support embedded videos, but don&#39;t worry, you can download it and watch it with your favorite video player!</description>
     </item>
     
     <item>
-      <title>Archetypes management</title>
-      <link>https://example.com/post/archetypes/</link>
-      <pubDate>Thu, 02 May 2019 19:25:30 +0200</pubDate>
+      <title>Mechatronics</title>
+      <link>https://pijuanyu.me/portfolio/mechatronics/</link>
+      <pubDate>Thu, 25 Feb 2021 15:30:09 +0200</pubDate>
       
-      <guid>https://example.com/post/archetypes/</guid>
-      <description>&lt;p&gt;The archetypes are defined in the &lt;code&gt;archetypes&lt;/code&gt; folder, for both post and portfolio.&lt;/p&gt;</description>
+      <guid>https://pijuanyu.me/portfolio/mechatronics/</guid>
+      <description>The above picture is a PCB (printed circuit board). It is designed by Eagle which is a 2D CAD software. The purpose of this PCB is to build a small mobile robot. In the Eagle software, I make a library for all items and then create a schematic (below). Then I draw the layout for the actual wires. Finally, I generate the gerber files and send them to the boarding house which can manufacture the PCB.</description>
     </item>
     
     <item>
-      <title>Shortcodes</title>
-      <link>https://example.com/post/shortcodes/</link>
-      <pubDate>Mon, 29 Apr 2019 16:18:12 +0100</pubDate>
+      <title>Simulated Annealing</title>
+      <link>https://pijuanyu.me/portfolio/simulated-annealing/</link>
+      <pubDate>Wed, 10 Feb 2021 07:00:09 +0200</pubDate>
       
-      <guid>https://example.com/post/shortcodes/</guid>
-      <description>&lt;p&gt;Introduction of the shortcodes defined in the personal-web theme.&lt;/p&gt;</description>
+      <guid>https://pijuanyu.me/portfolio/simulated-annealing/</guid>
+      <description>Simulated annealing is a stochastic technique for searching the global optimum of a given function. This approach can deal with highly nonlinear functions with many constraints. The most important advantage of this algorithm is that it can avoid finding the local minimum solution through probabilistic decisions. Besides, this technique is very versatile for almost all functions. So, we decided to build a generalized code for this algorithm in MATLAB and try to analyze this approach through several tests.</description>
     </item>
     
     <item>
-      <title>Config File</title>
-      <link>https://example.com/post/config-file/</link>
-      <pubDate>Sat, 20 Apr 2019 16:18:12 +0100</pubDate>
+      <title>Youbot Manipulation</title>
+      <link>https://pijuanyu.me/portfolio/youbot-manipulator/</link>
+      <pubDate>Sat, 10 Oct 2020 07:00:09 +0200</pubDate>
       
-      <guid>https://example.com/post/config-file/</guid>
-      <description>&lt;p&gt;Here is the basic config file used for personal-web.&lt;/p&gt;
-&lt;p&gt;You can use it as a base for your website.&lt;/p&gt;</description>
+      <guid>https://pijuanyu.me/portfolio/youbot-manipulator/</guid>
+      <description>This project is to plans a trajectory for the end-effector of the youBot mobile manipulator (a mobile base with four mecanum wheels and a 5R robot arm), performs odometry as the chassis moves, and performs feedback control to drive the youBot to pick up a block at a specified location, carry it to a desired location, and put it down.
+I use MATLAB to create an animation csv file and then input this file into CoppeliaSim so that the robot can be controlled by MATLAB.</description>
     </item>
     
     <item>
-      <title>Open Graph image</title>
-      <link>https://example.com/post/define-specific-og-image/</link>
-      <pubDate>Sat, 20 Apr 2019 11:14:59 +0200</pubDate>
+      <title>Jackbox project</title>
+      <link>https://pijuanyu.me/portfolio/jackbox/</link>
+      <pubDate>Thu, 01 Oct 2020 16:55:09 +0200</pubDate>
       
-      <guid>https://example.com/post/define-specific-og-image/</guid>
-      <description>Within any page, you can add in the FrontMatter a images array that will be used to define a specific Open Graph image.
-For example, see content/_index.md page:</description>
+      <guid>https://pijuanyu.me/portfolio/jackbox/</guid>
+      <description>In this project, the dynamic will be simulated through python. A jack will be animated in a box. The box will move to the upper right. And the jack will go into free fall and then impact with the bottom of the box. After that, the jack will bounce up and rotate. And then it will impact the box again. Due to the impact of the jack, the box will also rotate and go down a little bit.</description>
+    </item>
+    
+    <item>
+      <title>Electric FSAE</title>
+      <link>https://pijuanyu.me/portfolio/electric-fsae/</link>
+      <pubDate>Thu, 30 Apr 2020 07:00:09 +0200</pubDate>
+      
+      <guid>https://pijuanyu.me/portfolio/electric-fsae/</guid>
+      <description>Abstarct SAE Formula Electric is the second year of a continuation project aimed at establishing an SAE electric vehicle at Florida Tech. The project carries on the designs of the accumulator and high voltage testbed from last year’s Formula Electric teams. Additionally, through a combined effort of three electrical and one mechanical team, this team designed, tested, and produced three additional systems: high voltage box, low voltage box, and cooling system.</description>
+    </item>
+    
+    <item>
+      <title>Finite Element Analysis Projects</title>
+      <link>https://pijuanyu.me/portfolio/finite-element-analysis/</link>
+      <pubDate>Tue, 30 Apr 2019 07:00:09 +0200</pubDate>
+      
+      <guid>https://pijuanyu.me/portfolio/finite-element-analysis/</guid>
+      <description>Roller Coaster Support Structure Design The objective of this project is to design and test the structure of the support of a roller coaster track under various loading conditions. We implement a truss structure as the support of the track and test the structure in three different scenarios. We then compare the FEA results from Ansys with analytical results of buckling load and yield strength of the material to decide whether the design is feasible.</description>
     </item>
     
   </channel>

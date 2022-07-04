@@ -1,32 +1,185 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Techs on Edna West</title>
-    <link>https://example.com/techs/</link>
-    <description>Recent content in Techs on Edna West</description>
+    <title>Techs on Pijuan Yu</title>
+    <link>https://pijuanyu.me/techs/</link>
+    <description>Recent content in Techs on Pijuan Yu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>© Edna West</copyright>
-    <lastBuildDate>Thu, 02 May 2019 19:47:09 +0200</lastBuildDate>
+    <copyright>© Pijuan Yu</copyright>
+    <lastBuildDate>Thu, 20 Jan 2022 07:00:09 +0200</lastBuildDate>
     
-	<atom:link href="https://example.com/techs/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://pijuanyu.me/techs/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>D3</title>
-      <link>https://example.com/techs/d3/</link>
-      <pubDate>Thu, 02 May 2019 19:47:09 +0200</pubDate>
+      <title>Gazebo</title>
+      <link>https://pijuanyu.me/techs/gazebo/</link>
+      <pubDate>Thu, 20 Jan 2022 07:00:09 +0200</pubDate>
       
-      <guid>https://example.com/techs/d3/</guid>
+      <guid>https://pijuanyu.me/techs/gazebo/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>javascript</title>
-      <link>https://example.com/techs/javascript/</link>
-      <pubDate>Thu, 02 May 2019 19:47:09 +0200</pubDate>
+      <title>OpenCV</title>
+      <link>https://pijuanyu.me/techs/opencv/</link>
+      <pubDate>Thu, 20 Jan 2022 07:00:09 +0200</pubDate>
       
-      <guid>https://example.com/techs/javascript/</guid>
+      <guid>https://pijuanyu.me/techs/opencv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ROS</title>
+      <link>https://pijuanyu.me/techs/ros/</link>
+      <pubDate>Thu, 20 Jan 2022 07:00:09 +0200</pubDate>
+      
+      <guid>https://pijuanyu.me/techs/ros/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ROS2</title>
+      <link>https://pijuanyu.me/techs/ros2/</link>
+      <pubDate>Thu, 20 Jan 2022 07:00:09 +0200</pubDate>
+      
+      <guid>https://pijuanyu.me/techs/ros2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Realsense</title>
+      <link>https://pijuanyu.me/techs/realsense/</link>
+      <pubDate>Thu, 01 Jul 2021 07:00:09 +0200</pubDate>
+      
+      <guid>https://pijuanyu.me/techs/realsense/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CoppeliaSim</title>
+      <link>https://pijuanyu.me/techs/coppeliasim/</link>
+      <pubDate>Mon, 01 Mar 2021 07:00:09 +0200</pubDate>
+      
+      <guid>https://pijuanyu.me/techs/coppeliasim/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Docker</title>
+      <link>https://pijuanyu.me/techs/docker/</link>
+      <pubDate>Mon, 01 Mar 2021 07:00:09 +0200</pubDate>
+      
+      <guid>https://pijuanyu.me/techs/docker/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Moveit!</title>
+      <link>https://pijuanyu.me/techs/moveit/</link>
+      <pubDate>Mon, 01 Mar 2021 07:00:09 +0200</pubDate>
+      
+      <guid>https://pijuanyu.me/techs/moveit/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Eagle</title>
+      <link>https://pijuanyu.me/techs/eagle/</link>
+      <pubDate>Thu, 25 Feb 2021 15:30:09 +0200</pubDate>
+      
+      <guid>https://pijuanyu.me/techs/eagle/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>IMU</title>
+      <link>https://pijuanyu.me/techs/imu/</link>
+      <pubDate>Thu, 25 Feb 2021 15:30:09 +0200</pubDate>
+      
+      <guid>https://pijuanyu.me/techs/imu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Microchip PIC32</title>
+      <link>https://pijuanyu.me/techs/microchip-pic32/</link>
+      <pubDate>Thu, 25 Feb 2021 15:30:09 +0200</pubDate>
+      
+      <guid>https://pijuanyu.me/techs/microchip-pic32/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PCB</title>
+      <link>https://pijuanyu.me/techs/pcb/</link>
+      <pubDate>Thu, 25 Feb 2021 15:30:09 +0200</pubDate>
+      
+      <guid>https://pijuanyu.me/techs/pcb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>iSight</title>
+      <link>https://pijuanyu.me/techs/isight/</link>
+      <pubDate>Wed, 10 Feb 2021 07:00:09 +0200</pubDate>
+      
+      <guid>https://pijuanyu.me/techs/isight/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jupyter notebook</title>
+      <link>https://pijuanyu.me/techs/jupyter-notebook/</link>
+      <pubDate>Thu, 01 Oct 2020 16:55:09 +0200</pubDate>
+      
+      <guid>https://pijuanyu.me/techs/jupyter-notebook/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Simulink</title>
+      <link>https://pijuanyu.me/techs/simulink/</link>
+      <pubDate>Thu, 30 Apr 2020 07:00:09 +0200</pubDate>
+      
+      <guid>https://pijuanyu.me/techs/simulink/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Solidworks</title>
+      <link>https://pijuanyu.me/techs/solidworks/</link>
+      <pubDate>Thu, 30 Apr 2020 07:00:09 +0200</pubDate>
+      
+      <guid>https://pijuanyu.me/techs/solidworks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Workbench</title>
+      <link>https://pijuanyu.me/techs/workbench/</link>
+      <pubDate>Thu, 30 Apr 2020 07:00:09 +0200</pubDate>
+      
+      <guid>https://pijuanyu.me/techs/workbench/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ANSYS Workbench</title>
+      <link>https://pijuanyu.me/techs/ansys-workbench/</link>
+      <pubDate>Tue, 30 Apr 2019 07:00:09 +0200</pubDate>
+      
+      <guid>https://pijuanyu.me/techs/ansys-workbench/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Creo</title>
+      <link>https://pijuanyu.me/techs/creo/</link>
+      <pubDate>Tue, 30 Apr 2019 07:00:09 +0200</pubDate>
+      
+      <guid>https://pijuanyu.me/techs/creo/</guid>
       <description></description>
     </item>
     

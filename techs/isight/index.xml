@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>iSight on Pijuan Yu</title>
+    <link>https://pijuanyu.me/techs/isight/</link>
+    <description>Recent content in iSight on Pijuan Yu</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© Pijuan Yu</copyright>
+    <lastBuildDate>Wed, 10 Feb 2021 07:00:09 +0200</lastBuildDate>
+    
+	<atom:link href="https://pijuanyu.me/techs/isight/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Simulated Annealing</title>
+      <link>https://pijuanyu.me/portfolio/simulated-annealing/</link>
+      <pubDate>Wed, 10 Feb 2021 07:00:09 +0200</pubDate>
+      
+      <guid>https://pijuanyu.me/portfolio/simulated-annealing/</guid>
+      <description>Simulated annealing is a stochastic technique for searching the global optimum of a given function. This approach can deal with highly nonlinear functions with many constraints. The most important advantage of this algorithm is that it can avoid finding the local minimum solution through probabilistic decisions. Besides, this technique is very versatile for almost all functions. So, we decided to build a generalized code for this algorithm in MATLAB and try to analyze this approach through several tests.</description>
+    </item>
+    
+  </channel>
+</rss>

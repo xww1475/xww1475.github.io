@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CoppeliaSim on Pijuan Yu</title>
+    <link>https://pijuanyu.me/techs/coppeliasim/</link>
+    <description>Recent content in CoppeliaSim on Pijuan Yu</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© Pijuan Yu</copyright>
+    <lastBuildDate>Mon, 01 Mar 2021 07:00:09 +0200</lastBuildDate>
+    
+	<atom:link href="https://pijuanyu.me/techs/coppeliasim/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Dual UR5 Robot Arms Assembly</title>
+      <link>https://pijuanyu.me/portfolio/dual-ur5-arms-assembly/</link>
+      <pubDate>Mon, 01 Mar 2021 07:00:09 +0200</pubDate>
+      
+      <guid>https://pijuanyu.me/portfolio/dual-ur5-arms-assembly/</guid>
+      <description>In this robot simulation, a new object will be assembled by two UR5 arms with RG2 grippers. These two UR5 arms will be controlled by the Moveit!, remote API, python3, and ROS. The whole simulation will be done in the CoppeliaSim cross-platform. The docker approach will be helpful to make sure that everyone will run the code in the same environment with different machines and operating systems.
+Your browser doesn&#39;t support embedded videos, but don&#39;t worry, you can download it and watch it with your favorite video player!</description>
+    </item>
+    
+    <item>
+      <title>Youbot Manipulation</title>
+      <link>https://pijuanyu.me/portfolio/youbot-manipulator/</link>
+      <pubDate>Sat, 10 Oct 2020 07:00:09 +0200</pubDate>
+      
+      <guid>https://pijuanyu.me/portfolio/youbot-manipulator/</guid>
+      <description>This project is to plans a trajectory for the end-effector of the youBot mobile manipulator (a mobile base with four mecanum wheels and a 5R robot arm), performs odometry as the chassis moves, and performs feedback control to drive the youBot to pick up a block at a specified location, carry it to a desired location, and put it down.
+I use MATLAB to create an animation csv file and then input this file into CoppeliaSim so that the robot can be controlled by MATLAB.</description>
+    </item>
+    
+  </channel>
+</rss>

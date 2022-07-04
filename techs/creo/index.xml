@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Creo on Pijuan Yu</title>
+    <link>https://pijuanyu.me/techs/creo/</link>
+    <description>Recent content in Creo on Pijuan Yu</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© Pijuan Yu</copyright>
+    <lastBuildDate>Tue, 30 Apr 2019 07:00:09 +0200</lastBuildDate>
+    
+	<atom:link href="https://pijuanyu.me/techs/creo/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Finite Element Analysis Projects</title>
+      <link>https://pijuanyu.me/portfolio/finite-element-analysis/</link>
+      <pubDate>Tue, 30 Apr 2019 07:00:09 +0200</pubDate>
+      
+      <guid>https://pijuanyu.me/portfolio/finite-element-analysis/</guid>
+      <description>Roller Coaster Support Structure Design The objective of this project is to design and test the structure of the support of a roller coaster track under various loading conditions. We implement a truss structure as the support of the track and test the structure in three different scenarios. We then compare the FEA results from Ansys with analytical results of buckling load and yield strength of the material to decide whether the design is feasible.</description>
+    </item>
+    
+  </channel>
+</rss>

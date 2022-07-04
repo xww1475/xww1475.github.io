@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gazebo on Pijuan Yu</title>
+    <link>https://pijuanyu.me/techs/gazebo/</link>
+    <description>Recent content in Gazebo on Pijuan Yu</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© Pijuan Yu</copyright>
+    <lastBuildDate>Thu, 20 Jan 2022 07:00:09 +0200</lastBuildDate>
+    
+	<atom:link href="https://pijuanyu.me/techs/gazebo/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Quanticity Internship</title>
+      <link>https://pijuanyu.me/portfolio/quanticity-internship/</link>
+      <pubDate>Thu, 20 Jan 2022 07:00:09 +0200</pubDate>
+      
+      <guid>https://pijuanyu.me/portfolio/quanticity-internship/</guid>
+      <description>The purpose of this internship is to complete the basic autonomy of a ground vehicle. I will complete the SLAM and navigation based on LIDAR LD06, IMU, a depth camera and RGB camera. I used ROS2 galactic, OpenCV and Navigation2 to finish the whole project. Before running navigation in the physical robots, I will test these approaches in the Gazebo Simulation platform.
+My tasks will be divided into these steps.</description>
+    </item>
+    
+  </channel>
+</rss>
