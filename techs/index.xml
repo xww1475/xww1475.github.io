@@ -1,68 +1,68 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Techs on Pijuan Yu</title>
-    <link>https://pijuanyu.me/techs/</link>
-    <description>Recent content in Techs on Pijuan Yu</description>
+    <title>Techs on Xi Wan</title>
+    <link>https://xww1475.github.io/techs/</link>
+    <description>Recent content in Techs on Xi Wan</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>© Pijuan Yu</copyright>
+    <copyright>© Xi Wan</copyright>
     <lastBuildDate>Wed, 10 Feb 2021 07:00:09 +0200</lastBuildDate>
     
-	<atom:link href="https://pijuanyu.me/techs/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://xww1475.github.io/techs/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>iSight</title>
-      <link>https://pijuanyu.me/techs/isight/</link>
+      <link>https://xww1475.github.io/techs/isight/</link>
       <pubDate>Wed, 10 Feb 2021 07:00:09 +0200</pubDate>
       
-      <guid>https://pijuanyu.me/techs/isight/</guid>
+      <guid>https://xww1475.github.io/techs/isight/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Simulink</title>
-      <link>https://pijuanyu.me/techs/simulink/</link>
+      <link>https://xww1475.github.io/techs/simulink/</link>
       <pubDate>Thu, 30 Apr 2020 07:00:09 +0200</pubDate>
       
-      <guid>https://pijuanyu.me/techs/simulink/</guid>
+      <guid>https://xww1475.github.io/techs/simulink/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Solidworks</title>
-      <link>https://pijuanyu.me/techs/solidworks/</link>
+      <link>https://xww1475.github.io/techs/solidworks/</link>
       <pubDate>Thu, 30 Apr 2020 07:00:09 +0200</pubDate>
       
-      <guid>https://pijuanyu.me/techs/solidworks/</guid>
+      <guid>https://xww1475.github.io/techs/solidworks/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Workbench</title>
-      <link>https://pijuanyu.me/techs/workbench/</link>
+      <link>https://xww1475.github.io/techs/workbench/</link>
       <pubDate>Thu, 30 Apr 2020 07:00:09 +0200</pubDate>
       
-      <guid>https://pijuanyu.me/techs/workbench/</guid>
+      <guid>https://xww1475.github.io/techs/workbench/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ANSYS Workbench</title>
-      <link>https://pijuanyu.me/techs/ansys-workbench/</link>
+      <link>https://xww1475.github.io/techs/ansys-workbench/</link>
       <pubDate>Tue, 30 Apr 2019 07:00:09 +0200</pubDate>
       
-      <guid>https://pijuanyu.me/techs/ansys-workbench/</guid>
+      <guid>https://xww1475.github.io/techs/ansys-workbench/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Creo</title>
-      <link>https://pijuanyu.me/techs/creo/</link>
+      <link>https://xww1475.github.io/techs/creo/</link>
       <pubDate>Tue, 30 Apr 2019 07:00:09 +0200</pubDate>
       
-      <guid>https://pijuanyu.me/techs/creo/</guid>
+      <guid>https://xww1475.github.io/techs/creo/</guid>
       <description></description>
     </item>
     

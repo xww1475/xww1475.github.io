@@ -1,41 +1,41 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>PORTFOLIO on Pijuan Yu</title>
-    <link>https://pijuanyu.me/portfolio/</link>
-    <description>Recent content in PORTFOLIO on Pijuan Yu</description>
+    <title>PORTFOLIO on Xi Wan</title>
+    <link>https://xww1475.github.io/portfolio/</link>
+    <description>Recent content in PORTFOLIO on Xi Wan</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>© Pijuan Yu</copyright>
+    <copyright>© Xi Wan</copyright>
     <lastBuildDate>Wed, 10 Feb 2021 07:00:09 +0200</lastBuildDate>
     
-	<atom:link href="https://pijuanyu.me/portfolio/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://xww1475.github.io/portfolio/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Simulated Annealing</title>
-      <link>https://pijuanyu.me/portfolio/simulated-annealing/</link>
+      <link>https://xww1475.github.io/portfolio/simulated-annealing/</link>
       <pubDate>Wed, 10 Feb 2021 07:00:09 +0200</pubDate>
       
-      <guid>https://pijuanyu.me/portfolio/simulated-annealing/</guid>
+      <guid>https://xww1475.github.io/portfolio/simulated-annealing/</guid>
       <description>Simulated annealing is a stochastic technique for searching the global optimum of a given function. This approach can deal with highly nonlinear functions with many constraints. The most important advantage of this algorithm is that it can avoid finding the local minimum solution through probabilistic decisions. Besides, this technique is very versatile for almost all functions. So, we decided to build a generalized code for this algorithm in MATLAB and try to analyze this approach through several tests.</description>
     </item>
     
     <item>
       <title>Electric FSAE</title>
-      <link>https://pijuanyu.me/portfolio/electric-fsae/</link>
+      <link>https://xww1475.github.io/portfolio/electric-fsae/</link>
       <pubDate>Thu, 30 Apr 2020 07:00:09 +0200</pubDate>
       
-      <guid>https://pijuanyu.me/portfolio/electric-fsae/</guid>
+      <guid>https://xww1475.github.io/portfolio/electric-fsae/</guid>
       <description>Abstarct SAE Formula Electric is the second year of a continuation project aimed at establishing an SAE electric vehicle at Florida Tech. The project carries on the designs of the accumulator and high voltage testbed from last year’s Formula Electric teams. Additionally, through a combined effort of three electrical and one mechanical team, this team designed, tested, and produced three additional systems: high voltage box, low voltage box, and cooling system.</description>
     </item>
     
     <item>
       <title>Finite Element Analysis Projects</title>
-      <link>https://pijuanyu.me/portfolio/finite-element-analysis/</link>
+      <link>https://xww1475.github.io/portfolio/finite-element-analysis/</link>
       <pubDate>Tue, 30 Apr 2019 07:00:09 +0200</pubDate>
       
-      <guid>https://pijuanyu.me/portfolio/finite-element-analysis/</guid>
+      <guid>https://xww1475.github.io/portfolio/finite-element-analysis/</guid>
       <description>Roller Coaster Support Structure Design The objective of this project is to design and test the structure of the support of a roller coaster track under various loading conditions. We implement a truss structure as the support of the track and test the structure in three different scenarios. We then compare the FEA results from Ansys with analytical results of buckling load and yield strength of the material to decide whether the design is feasible.</description>
     </item>
     
